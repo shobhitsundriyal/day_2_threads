@@ -13,3 +13,7 @@ version = "0.1.0"
 [[package]]
 name = "sum_the_vector"
 version = "0.1.0"
+
+[[package]]
+name = "thread_builder"
+version = "0.1.0"
