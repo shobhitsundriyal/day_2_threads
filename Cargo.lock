@@ -9,3 +9,7 @@ version = "0.1.0"
 [[package]]
 name = "hello_thread"
 version = "0.1.0"
+
+[[package]]
+name = "sum_the_vector"
+version = "0.1.0"

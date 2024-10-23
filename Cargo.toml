@@ -6,5 +6,5 @@ edition = "2021"
 [dependencies]
 
 [workspace]
-members = ["hello_thread"]
+members = ["hello_thread", "sum_the_vector"]
 
