@@ -11,6 +11,10 @@ name = "day_2_threads"
 version = "0.1.0"
 
 [[package]]
+name = "deadlock"
+version = "0.1.0"
+
+[[package]]
 name = "hello_thread"
 version = "0.1.0"
 
