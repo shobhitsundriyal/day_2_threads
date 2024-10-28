@@ -6,5 +6,5 @@ edition = "2021"
 [dependencies]
 
 [workspace]
-members = [ "atomics","hello_thread", "scoped_threads", "sum_the_vector", "thread_builder"]
+members = [ "atomics","hello_thread", "mutexes", "scoped_threads", "sum_the_vector", "thread_builder"]
 
